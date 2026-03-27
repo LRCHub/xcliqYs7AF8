@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Conditioning",
+  "base_artist": "Howard Jones",
+  "createdAt": "2026-03-27T11:50:22.059478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Air Conditioning",
+      "artist": "DIIV",
+      "has_synced": false,
+      "path": "select/01_Air_Conditioning_DIIV.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Conditioning",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/02_Conditioning_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Total Conditioning",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/03_Total_Conditioning_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Conditioning - 2008 Remastered Version",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/04_Conditioning_-_2008_Remastered_Version_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Air Conditioning [Revisited]",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/05_Air_Conditioning_[Revisited]_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unyielding Conditioning",
+      "artist": "Fishbone",
+      "has_synced": true,
+      "path": "select/06_Unyielding_Conditioning_Fishbone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unyeilding Conditioning",
+      "artist": "Fishbone",
+      "has_synced": true,
+      "path": "select/07_Unyeilding_Conditioning_Fishbone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Total Conditioning - 12\" Version",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/08_Total_Conditioning_-_12__Version_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Air Conditioning",
+      "artist": "Lightning Bolt",
+      "has_synced": false,
+      "path": "select/09_Air_Conditioning_Lightning_Bolt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Conditioning",
+      "artist": "Ghostface Killah",
+      "has_synced": true,
+      "path": "select/10_Conditioning_Ghostface_Killah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Air Conditioning",
+      "artist": "Sleaford Mods",
+      "has_synced": true,
+      "path": "select/11_Air_Conditioning_Sleaford_Mods.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thought Conditioning",
+      "artist": "Archive",
+      "has_synced": true,
+      "path": "select/12_Thought_Conditioning_Archive.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Conditioning the Weak",
+      "artist": "Lay Down Rotten",
+      "has_synced": false,
+      "path": "select/13_Conditioning_the_Weak_Lay_Down_Rotten.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Air Conditioning",
+      "artist": "Emily Kinney",
+      "has_synced": false,
+      "path": "select/14_Broken_Air_Conditioning_Emily_Kinney.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Conditioning",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/pl_01_Conditioning_Howard_Jones.txt"
+    }
+  ]
+}
